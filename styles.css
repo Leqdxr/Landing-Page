@@ -104,6 +104,7 @@ ul {
     gap: 52px;
     justify-content: center;
     padding: 32px;
+    margin-bottom: 100px;
 }
 
 .desc {
@@ -113,4 +114,22 @@ ul {
 .info {
     border: 5px solid #508ff7;
     border-radius: 16px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    text-align: center;
+}
+
+.thor {
+    text-align: right;
 }
