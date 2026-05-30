@@ -89,3 +89,28 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    display:flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.random-information {
+    display:flex;
+    gap: 52px;
+    justify-content: center;
+    padding: 32px;
+}
+
+.desc {
+    max-width: 150px;
+}
+
+.info {
+    border: 5px solid #508ff7;
+    border-radius: 16px;
+}
